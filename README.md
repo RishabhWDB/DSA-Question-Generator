@@ -15,33 +15,8 @@ A desktop application that generates random coding problems from LeetCode's Top 
 - Python 3.7 or higher
 - pandas
 - requests
-- beautifulsoup4
 - tkinter (usually included with Python)
 
-## Installation
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/RishabhWDB/DSA-Question-Generator.git
-   cd DSA-Question-Generator
-   ```
-
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-### GUI Version (Recommended)
-```
-python leetcode_gui_enhanced.py
-```
-
-### Command Line Version
-```
-python random_leetcode_generator.py [number_of_questions]
-```
 
 ## How to Use
 
